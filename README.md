@@ -1,5 +1,5 @@
 
-# Nautilus AI Agent
+# AI Agent
 ---------------
 - This agent is used to connect with AI Prompt servers and executes the actions from the Prompt results.
 
